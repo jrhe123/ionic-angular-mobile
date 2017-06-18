@@ -1,4 +1,4 @@
-Angular Mobile App (Ionic Framework)
+# Angular Mobile App (Ionic Framework)
 
 
 start: ionic serve
